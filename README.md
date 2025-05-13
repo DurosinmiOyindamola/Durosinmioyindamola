@@ -42,14 +42,7 @@ Hi there! I'm **Durosinmi  Oyindamola Kabirat**, a passionate **Data Analyst** w
 
 - linkedin: www.linkedin.com/in/oyindamola-durosinmi-a032b333a 
 - 📧 durosinmikabirat@gmail.com  
-- 🗂 [Portfolio Website (if available)](#)  
+- 🗂  
 - 🐙 [GitHub](https://github.com/your-Durosinmioyindamola)  
 
----
-
-> *"I believe in the power of data to drive progress, and I’m always eager to learn, grow, and contribute to impactful projects."*
-
-```
-
----
 
