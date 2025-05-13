@@ -45,7 +45,7 @@ Hi there! I'm **Durosinmi Kabirat**, a passionate **Data Analyst** with hands-on
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💼 linkedin.com/in/oyindamola-durosinmi-a032b333a  
 - 📧 durosinmikabirat@example.com  
 - 🗂 [Portfolio Website (if available)](#)  
 - 🐙 [GitHub](https://github.com/your-username)  
