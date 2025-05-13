@@ -1,8 +1,3 @@
-Here’s a professional GitHub `README.md` template tailored for you, **Durosinmi O. Kabirat**, as a **Data Analyst**. This markdown highlights your skills, projects, tools, and contact info — making your profile stand out to potential employers or collaborators.
-
----
-
-```markdown
 # 👩‍💻 Durosinmi O. Kabirat — Data Analyst
 
 Hi there! I'm **Durosinmi Kabirat**, a passionate **Data Analyst** with hands-on experience in data cleaning, modeling, visualization, and reporting using **Excel, Power BI, SQL, and Python**. I love transforming raw data into valuable insights that help organizations make smarter decisions.
