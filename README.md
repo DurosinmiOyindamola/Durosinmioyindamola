@@ -58,10 +58,3 @@ Hi there! I'm **Durosinmi Kabirat**, a passionate **Data Analyst** with hands-on
 
 ---
 
-### ✅ Next Steps:
-
-* Replace placeholders like `[Institution Name]`, email, and GitHub links with your actual details.
-* Add links to your project repositories where applicable.
-* You can also customize the color or badges using GitHub readme tools like [shields.io](https://shields.io/).
-
-Let me know if you want a version with badges, charts, or personal branding colors!
