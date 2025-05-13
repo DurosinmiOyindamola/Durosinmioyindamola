@@ -1,6 +1,6 @@
 # 👩‍💻 Durosinmi O. Kabirat — Data Analyst
 
-Hi there! I'm **Durosinmi  Oyindamola Kabirat**, a passionate **Data Analyst** with hands-on experience in data cleaning, modeling, visualization, and reporting using **Excel, Power BI, SQL, and Python**. I love transforming raw data into valuable insights that help organizations make smarter decisions.
+Hi there! I'm **Durosinmi Oyindamola Kabirat**, a passionate **Data Analyst** with hands-on experience in data cleaning, modeling, visualization, and reporting using **Excel, Power BI, SQL, and Python**. I love transforming raw data into valuable insights that help organizations make smarter decisions.
 
 ---
 
