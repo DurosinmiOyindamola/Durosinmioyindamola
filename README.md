@@ -14,21 +14,6 @@ Hi there! I'm **Durosinmi Oyindamola Kabirat**, a passionate **Data Analyst** wi
 
 ---
 
-## 📊 Projects
-
-### 📌 [Theo Anderson Store Sales Analysis – Power BI](#)
-> *Analyzed retail sales data to track key performance indicators, customer behavior, and inventory trends.*
-- Built a clean data model using Power Query and DAX
-- Developed an interactive dashboard with slicers and dynamic visuals
-- Provided actionable insights on revenue, product performance, and store branches
-
-### 📌 [Supermarket Sales Report – Excel Dashboard](#)
-> *Designed an Excel dashboard to monitor sales metrics and customer segments.*
-- Cleaned and prepared raw data using Power Query
-- Used VLOOKUP and PivotTables to generate insights
-- Created interactive dashboard with slicers and charts
-
-
 
 ## 🎓 Education & Certification
 
