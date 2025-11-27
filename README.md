@@ -28,6 +28,6 @@ Hi there! I'm **Durosinmi Oyindamola Kabirat**, a passionate **Data Analyst** wi
 - linkedin: www.linkedin.com/in/oyindamola-durosinmi-a032b333a 
 - 📧 durosinmikabirat@gmail.com  
 - 🗂  
-- 🐙 [GitHub](https://github.com/your-Durosinmioyindamola)  
+- 🐙 [GitHub]https://github.com/DurosinmiOyindamola  
 
 
