@@ -1,6 +1,6 @@
 # Hi, I'm Durosinmi Oyindamola 👋
 
-Data Analyst | Business & Healthcare Analytics
+Data Analyst (Business & Healthcare) | Power BI • SQL • Excel | Data-Driven Insights | KPI Tracking | Process Optimization | Decision Support
 
 ## 💡 About Me
 I specialize in analyzing business and healthcare data to uncover insights that support decision-making.
