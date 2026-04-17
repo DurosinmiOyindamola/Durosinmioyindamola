@@ -9,7 +9,7 @@ I specialize in analyzing business and healthcare data to uncover insights that 
 - Power BI
 - SQL
 - Excel
-- Python (if applicable)
+- Python 
 - Data Visualization
 
 ---
